@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include <ctype.h>
-
+//this program finds which letters are upper case and prints them
 using namespace std;
 
 int main()
