@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	double pi = M_PI; //you can set pi to whatever you want realisitcally
+	double pi = M_PI; //_USE_MATH_DEFINES not really necessary for this purpose
 	double radius;
 	double normal, taxicab;
 
